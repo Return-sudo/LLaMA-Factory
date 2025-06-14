@@ -2,6 +2,9 @@
   "identity": {
     "file_name": "identity.json"
   },
+ "mydataset": {
+    "file_name": "mydataset.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
